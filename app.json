@@ -32,7 +32,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": false,
-			"value": "OXSAM"
+			"value": "OXSAM "
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered.",
