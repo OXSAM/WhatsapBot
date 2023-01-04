@@ -61,7 +61,7 @@ A simple Whatsapp User bot with more fun and toys
       ```
       SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
       PREFIX = .
-      STICKER_PACKNAME = niuoten
+      STICKER_PACKNAME = OXSAM
       ALWAYS_ONLINE = false
       RMBG_KEY = null
       LANGUAG = en
