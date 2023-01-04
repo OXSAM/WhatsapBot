@@ -7,7 +7,7 @@ A simple Whatsapp User bot with more fun and toys
 2. ### Deploy on koyeb
    1. Create an account in [koyeb](https://app.koyeb.com/auth/signup). [SignUp Now](https://app.koyeb.com/auth/signup)
    2. Get [DATABASE_URL](https://github.com/OXSAM/WhatsappBot/wiki/DATABASE_URL), You needs while depolying
-   3. Get [SESSION_ID](https://levanter.onrender.com/md), Open Linked Devices in WhatsaApp and [SCAN](https://levanter.onrender.com/md) Now.
+   3. Get [SESSION_ID](https://levanter.onrender.com/md), Open Linked Devices in WhatsApp and [SCAN](https://levanter.onrender.com/md) Now.
    4. Get Koyeb API key. [Let Go](https://app.koyeb.com/account/api)
    5. [DEPLOY](https://levanter.onrender.com/koyeb) Now.
    6. Enter [Environment Variables](https://github.com/OXSAM/WhatsappBot/wiki/Environment_Variables) 
